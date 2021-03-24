@@ -3,7 +3,7 @@
 
 # What is this?
 
-Just baby face detection tutorial.
+Baby's first face detection tutorial.
 
 # Maybe run these
 
